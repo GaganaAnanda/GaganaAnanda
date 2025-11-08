@@ -22,13 +22,6 @@
 
 ---
 
-## 🧠 Tech Stack  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,react,angular,nodejs,express,python,postgres,mysql,azure,git,github,vscode,bootstrap,powerbi" />
-</p>
-
----
 
 ## 🌈 My “Skill Spectrum”
 
