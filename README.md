@@ -3,8 +3,9 @@
 <!-- HERO SECTION -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=8e2de2,ff416c,ff7e5f,00bfae&width=100%&height=160&section=header&text=Gagana%20Ananda&fontSize=38&fontColor=ffffff&desc=Software+Engineer+%7C+Full-Stack+Developer+%7C+Cloud+%26+Data+Enthusiast&descAlignY=65" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=8e2de2,ff416c,ff7e5f,00bfae&width=800&height=160&section=header&text=Gagana%20Ananda&fontSize=38&fontColor=ffffff&desc=Software+Engineer+%7C+Full-Stack+Developer+%7C+Cloud+%26+Data+Enthusiast&descAlignY=65" />
 </p>
+
 
 <p align="center">
   🎓 **MS in Information Systems** — **Northeastern University (Expected 2027)**<br/>
