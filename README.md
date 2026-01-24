@@ -66,7 +66,7 @@ I build with intent. Every design choice is guided by maintainability, performan
 ## 🧠 Technical Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,react,angular,nodejs,express,mysql,postgresql,mongodb,aws,azure,git,github,bootstrap,powerbi,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,react,angular,nodejs,express,mysql,postgresql,mongodb,aws,azure,git,github,bootstrap,powerbi,vscode" height="40" />
 </p>
 
 <p align="center">
