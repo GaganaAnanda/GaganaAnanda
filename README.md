@@ -20,6 +20,8 @@
 
 ## Snapshot
 
+<hr/>
+
 |                                                                                                                                                                                                                                              |   |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | - |
 | **Experience**                                                                                                                                                                                                                               |   |
@@ -41,6 +43,8 @@ Engineering with intent focusing on clean architecture maintainability performan
 
 ---
 
+<hr/>
+
 ## Technical Stack
 
 <p align="center">
@@ -52,6 +56,8 @@ REST APIs • Full Stack Development • Cloud Fundamentals • AWS and Azure �
 </p>
 
 ---
+
+<hr/>
 
 ## AWS Learning and Hands On Exposure
 
@@ -73,48 +79,90 @@ Applied AWS concepts in coursework and personal experimentation by deploying bac
 
 ---
 
+<hr/>
+
 ## Featured Projects
 
-### EduTracker Intelligent Education Management System
+<hr/>
+
+### EduTracker AI Powered School Management System
 
 **Overview**
-A full stack web application designed to manage academic workflows including students courses performance tracking and analytics.
+A full stack multi tier web application designed to streamline academic operations for schools with intelligent analytics and role based access.
 
-**Engineering Highlights**
-• REST based backend with Node and Express
-• Interactive frontend using React with modular components
-• Relational database design using MySQL
-• Clear separation of concerns and scalable architecture
+**Key Contributions**
+• Designed RESTful backend APIs using Node.js and Express
+• Built responsive frontend using React with reusable components
+• Implemented role based access for admins faculty students and parents
+• Integrated MongoDB for flexible data modeling and analytics
+
+**Tech Stack**
+JavaScript HTML5 CSS3 Bootstrap React Node.js Express MongoDB
 
 🔗 [https://github.com/GaganaAnanda/6150-group_Assignment](https://github.com/GaganaAnanda/6150-group_Assignment)
 
----
+<hr/>
+
+### CareLink 360 Healthcare Management Ecosystem
+
+**Overview**
+Enterprise style healthcare ecosystem integrating hospitals insurance NGOs donation units and government organizations under a unified workflow.
+
+**Key Contributions**
+• Designed modular Java based architecture using MVC principles
+• Implemented role driven workflows using Work Queue pattern
+• Built Java Swing based user interfaces
+• Managed persistence using DB4O
+
+**Tech Stack**
+Java Java Swing JDBC Apache NetBeans DB4O
+
+<hr/>
 
 ### University Management System
 
 **Overview**
-Desktop based role driven system to manage enrollment academics grading and administrative operations.
+Role based desktop application to manage university enrollment academics grading and administrative workflows.
 
-**Engineering Highlights**
-• Java Swing based UI
-• PostgreSQL integration using JDBC
-• Role based access logic and structured workflows
+**Key Contributions**
+• Developed Java Swing interfaces for multiple user roles
+• Integrated PostgreSQL using JDBC
+• Implemented structured workflows and access control
+
+**Tech Stack**
+Java Java Swing PostgreSQL JDBC
 
 🔗 [https://github.com/GaganaAnanda/University_Management](https://github.com/GaganaAnanda/University_Management)
 
----
+<hr/>
 
-### Supply Chain Analytics Dashboard
+### Supply Chain Analytics and Business Intelligence Projects
 
 **Overview**
-Analytical dashboard focused on extracting insights from operational and supplier data to improve decision making.
+A collection of analytics focused projects leveraging real world supply chain datasets to generate actionable insights.
 
-**Engineering Highlights**
-• Data modeling and transformation using Python and SQL
-• Interactive dashboards built in Power BI
-• Business focused metrics and visualization
+**Key Contributions**
+• Built interactive dashboards using Power BI
+• Performed data transformation and analysis using Python and SQL
+• Designed KPIs for demand forecasting inventory optimization and performance tracking
 
----
+**Tech Stack**
+Python SQL Power BI Excel
+
+<hr/>
+
+## Additional Academic and Personal Projects
+
+| Project                        | Description                                                                           | Technologies                  |
+| ------------------------------ | ------------------------------------------------------------------------------------- | ----------------------------- |
+| City Bites                     | Responsive multi page web application demonstrating layout systems and UI structuring | HTML CSS Flexbox Grid         |
+| Java Mini Applications         | Object oriented Java applications showcasing data structures workflows and UI logic   | Java OOP                      |
+| Web and UX Coursework Projects | UI focused projects emphasizing accessibility responsiveness and usability            | HTML CSS JavaScript Bootstrap |
+| Data Analytics Coursework      | Business analytics assignments focused on visualization and insight generation        | Python SQL Power BI           |
+
+<hr/>
+
+## GitHub Analytics
 
 ## GitHub Analytics
 
