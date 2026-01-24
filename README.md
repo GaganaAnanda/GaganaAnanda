@@ -3,10 +3,8 @@
 <!-- HERO SECTION -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=ff416c,ffd43b,00d4ff&height=160&section=header&text=Gagana%20Ananda&fontSize=38&fontColor=ffffff&desc=Software+Engineer+%7C+Full-Stack+Developer+%7C+Cloud+%26+Data+Enthusiast&descAlignY=65" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ff416c,ff9a3c,ffd43b&width=800&height=160&section=header&text=Gagana%20Ananda&fontSize=38&fontColor=ffffff&desc=Software+Engineer+%7C+Full-Stack+Developer+%7C+Cloud+%26+Data+Enthusiast&descAlignY=65" />
 </p>
-
-
 
 <p align="center">
   <b>Actively Seeking:</b> Software Developer | Full-Stack Intern & Co-op (2026)<br/>
