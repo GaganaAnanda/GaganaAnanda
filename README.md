@@ -2,7 +2,7 @@
 
 <!-- HERO SECTION -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=4f46e5&width=800&height=220&section=header&text=Gagana%20Ananda&fontSize=38&fontColor=ffffff&desc=Software%20Engineer%20and%20Full%20Stack%20Developer%0ACloud%20and%20Data%20Enthusiast&descAlignY=120" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=4f46e5&width=800&height=200&section=header&text=Gagana%20Ananda&fontSize=38&fontColor=ffffff&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Cloud%20%26%20Data%20Enthusiast&descAlignY=140" />
 
 
 <p align="center">
