@@ -1,13 +1,24 @@
-<!-- GAGANA ANANDA GITHUB README -->
+<!-- HERO SECTION -->
 
-![Header](https://capsule-render.vercel.app/api?type=rect\&color=gradient\&width=100%\&height=160\&section=header\&text=Gagana%20Ananda\&fontSize=38\&fontColor=ffffff\&desc=Full%20Stack%20Developer%20%7C%20MSIS%20%40%20Northeastern%20University\&descAlignY=65)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=190&section=header&text=Gagana%20Ananda&fontSize=42&fontColor=ffffff" />
+</p>
 
-🎓 MS in Information Systems at Northeastern University Boston Massachusetts USA Expected 2027
-🔎 Actively seeking Software Development and Full Stack Internship or Co op roles for 2026
+<p align="center">
+  <b>Full Stack Developer</b> • MS Information Systems @ Northeastern University  
+  <br/>Engineering background • Cloud aware • Product minded
+</p>
+
+<p align="center">
+  <a href="https://github.com/GaganaAnanda">GitHub</a> • 
+  <a href="https://linkedin.com/in/gagana1">LinkedIn</a> • 
+  <a href="mailto:ananda.ga@northeastern.edu">Email</a> • 
+  <a href="https://gaganaportfolio.online">Portfolio</a>
+</p>
 
 ---
 
-## About Me Engineering Perspective
+## Snapshot
 
 |                                                                                                                                                                                                                                              |   |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | - |
@@ -128,6 +139,7 @@ Analytical dashboard focused on extracting insights from operational and supplie
 
 ## Contact
 
+🌐 Portfolio [https://gaganaportfolio.online](https://gaganaportfolio.online)
 📧 Email [ananda.ga@northeastern.edu](mailto:ananda.ga@northeastern.edu)
 💼 LinkedIn [https://linkedin.com/in/gagana1](https://linkedin.com/in/gagana1)
 💻 GitHub [https://github.com/GaganaAnanda](https://github.com/GaganaAnanda)
