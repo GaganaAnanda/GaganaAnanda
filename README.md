@@ -3,30 +3,65 @@
 <!-- HERO SECTION -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=8e2de2,ff416c,ff7e5f,00bfae&width=800&height=160&section=header&text=Gagana%20Ananda&fontSize=38&fontColor=ffffff&desc=Software+Engineer+%7C+Full-Stack+Developer+%7C+Cloud+%26+Data+Enthusiast&descAlignY=65" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=4f46e5,ff3cac,ff6f3c,ffd43b&height=250&section=header&text=Gagana%20Ananda&fontSize=50&fontColor=ffffff&animation=twinkling" />
 </p>
 
+<p align="center">
+  <b>Actively Seeking:</b> Software Developer | Full-Stack Intern & Co-op (2026)<br/>
+  MS Information Systems @ Northeastern University • Cloud & Data Enthusiast • Engineering Mindset
+</p>
 
 <p align="center">
-  🎓 **MS in Information Systems** — **Northeastern University (Expected 2027)**<br/>
-  📍 Boston, Massachusetts, USA<br/>
-  🔎 Actively seeking Software Developer / Full-Stack Intern & Co-op roles (2026)
+  <a href="https://github.com/GaganaAnanda">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/gagana1">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://gaganaportfolio.online">
+    <img src="https://img.shields.io/badge/Portfolio-4f46e5?style=for-the-badge&logo=read-the-docs&logoColor=white"/>
+  </a>
+  <a href="mailto:ananda.ga@northeastern.edu">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&pause=1200&color=4f46e5&center=true&vCenter=true&width=700&lines=Building+Full-Stack+Applications;Developing+Cloud+and+Data-Driven+Backends;Delivering+Impactful+Solutions" />
 </p>
 
 <hr/>
 
-## 🧠 About Me — Engineering View
+## 🌱 My Engineering Story
 
-| | |
-|---|---|
-| **💼 Experience**  <br/> 8+ years in enterprise IT and software development. <br/><br/> **⚙️ What I Build**  <br/> Scalable full-stack applications, cloud-integrated systems, and data-driven software solutions. <br/><br/> **🧩 Tech Focus**  <br/> Java • React • Node.js • REST APIs • MongoDB • SQL • AWS • Azure • Power BI. <br/><br/> **🎯 Mindset**  <br/> Engineering-first approach with emphasis on reliability, usability, and maintainability. | <p align="center"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjF4cmJoNnN6bXM3OGNoNjVjNjBneTlubGk2YnB4bThldWEzcW9mbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="260"/></p> |
+I come from an enterprise IT background, where precision, systems thinking, and data-driven decisions mattered every day. Over the last 8 years, I’ve worked at large-scale technology organizations solving real operational and supply chain problems. Today, I’m channeling that experience into building software systems that are scalable, reliable, and user-focused.
 
-📌 **Professional Impact**
-- Built and deployed full-stack applications supporting academic and healthcare workflows  
-- Designed cloud-aware backend services with secure and scalable architecture  
-- Created dashboards and analytics pipelines to drive data-informed decisions  
+<hr/>
 
----
+## 🔧 What I Bring to the Table
+
+🛠️ **Industry Depth**  
+Hands-on experience across IT analysis, supply chain optimization, and analytics-driven decision making in global enterprise environments.
+
+💻 **Software Craft**  
+Design and development of full stack applications, backend APIs, and cloud-integrated systems with clean architecture and clear separation of concerns.
+
+☁️ **Cloud and Data Awareness**  
+Practical exposure to AWS and Azure, combined with strong data analytics skills using SQL, Python, and Power BI to support insight-driven applications.
+
+🧠 **Engineering Mindset**  
+I build with intent. Every design choice is guided by maintainability, performance, and real-world usability rather than just feature completion.
+
+<hr/>
+
+## 🚀 Where I Create Impact
+
+📊 Transformed data into insights that reduced inventory surplus and operational costs  
+🤝 Worked cross-functionally with engineering, analytics, and business teams  
+📦 Supported enterprise-scale products and workflows used across multiple teams  
+🔄 Applied structured engineering thinking to modern full stack development
+
+<hr/>
 
 ## 🧠 Technical Stack
 
@@ -38,74 +73,97 @@
 ⚙️ Full Stack Development • REST APIs • Cloud Fundamentals • Data Analytics • UI/UX Principles
 </p>
 
----
+<hr/>
 
-## 🚀 Featured Academic Projects
+## ☁️ AWS Learning and Hands-On Exposure
 
-### 🏥 CareLink 360 — Healthcare Management Ecosystem
+🎓 **Academic and Learning Experience**  
+Gained foundational knowledge of AWS through graduate coursework and guided labs covering compute, storage, identity management, and deployment models.
 
-**Overview:**  
-Enterprise-style healthcare ecosystem integrating hospitals, insurance, NGOs, donation units, and government organizations under a unified workflow.
+• EC2 instance fundamentals and virtual machine provisioning  
+• S3 object storage concepts and access patterns  
+• IAM users, roles, and permission basics  
+• Cloud architecture trade-offs and cost awareness  
 
-**Key Contributions:**  
-- Modular Java-based architecture using MVC principles  
-- Role-driven workflows with WorkQueue pattern  
-- Java Swing UI development  
-- Persistence management using DB4O  
+🛠️ **Hands-On Project Exposure**  
+Applied AWS concepts in coursework and personal experimentation by deploying backend services and static assets in a cloud environment.
 
-🔗 [GitHub](https://github.com/GaganaAnanda/CareLink_360)
+• Hosted Node.js backend services on EC2  
+• Used S3 for static content and file storage experiments  
+• Practiced environment configuration, security groups, and basic monitoring  
+• Compared AWS services with Azure to understand multi-cloud patterns
 
----
+<hr/>
 
-### 🎓 EduTrack AI — Education Management Platform
+## 🚀 Featured Projects
 
-**Overview:**  
-Full stack multi-tier web application to streamline academic operations for schools with intelligent analytics and role-based access.
+### EduTrack AI
 
-**Key Contributions:**  
-- RESTful backend APIs using Node.js and Express  
-- Responsive React frontend with reusable components  
-- Role-based access for administrators, faculty, students, and parents  
-- MongoDB integration for flexible data modeling and analytics  
+**Overview**  
+A full stack multi-tier web application designed to streamline academic operations for schools with intelligent analytics and role-based access.
 
-**Tech Stack:**  
+**Key Contributions**  
+• Designed RESTful backend APIs using Node.js and Express  
+• Built responsive frontend using React with reusable components  
+• Implemented role-based access for administrators, faculty, students, and parents  
+• Integrated MongoDB for flexible data modeling and analytics  
+
+**Tech Stack**  
 JavaScript, HTML5, CSS3, Bootstrap, React, Node.js, Express, MongoDB  
 
-🔗 [GitHub](https://github.com/Mallesh-Mallikarjunaiah/EduTrack_AI)
+🔗 [https://github.com/Mallesh-Mallikarjunaiah/EduTrack_AI](https://github.com/Mallesh-Mallikarjunaiah/EduTrack_AI)
 
 ---
 
-### 🎓 University Management System
+### CareLink 360 Healthcare Management Ecosystem
 
-**Overview:**  
-Role-based desktop application for university enrollment, academics, grading, and administrative workflows.
+**Overview**  
+Enterprise-style healthcare ecosystem integrating hospitals, insurance, NGOs, donation units, and government organizations under a unified workflow.
 
-**Key Contributions:**  
-- Java Swing interfaces for multiple user roles  
-- PostgreSQL integration using JDBC  
-- Structured workflows and access control  
+**Key Contributions**  
+• Designed modular Java-based architecture using MVC principles  
+• Implemented role-driven workflows using Work Queue pattern  
+• Built Java Swing-based user interfaces  
+• Managed persistence using DB4O  
 
-**Tech Stack:**  
+**Tech Stack**  
+Java, Java Swing, JDBC, Apache NetBeans, DB4O  
+
+🔗 [https://github.com/GaganaAnanda/CareLink_360](https://github.com/GaganaAnanda/CareLink_360)
+
+---
+
+### University Management System
+
+**Overview**  
+Role-based desktop application to manage university enrollment, academics, grading, and administrative workflows.
+
+**Key Contributions**  
+• Java Swing interfaces for multiple user roles  
+• PostgreSQL integration using JDBC  
+• Structured workflows and access control  
+
+**Tech Stack**  
 Java, Java Swing, PostgreSQL, JDBC  
 
-🔗 [GitHub](https://github.com/GaganaAnanda/University_Management)
+🔗 [https://github.com/GaganaAnanda/University_Management](https://github.com/GaganaAnanda/University_Management)
 
 ---
 
-### 📊 Supply Chain Analytics and Business Intelligence Projects
+### Supply Chain Analytics and Business Intelligence Projects
 
-**Overview:**  
+**Overview**  
 Analytics-focused projects leveraging real-world supply chain datasets to generate actionable insights.
 
-**Key Contributions:**  
-- Interactive dashboards using Power BI  
-- Data transformation and analysis using Python and SQL  
-- Designed KPIs for demand forecasting, inventory optimization, and performance tracking  
+**Key Contributions**  
+• Interactive dashboards using Power BI  
+• Data transformation and analysis using Python and SQL  
+• Designed KPIs for demand forecasting, inventory optimization, and performance tracking  
 
-**Tech Stack:**  
+**Tech Stack**  
 Python, SQL, Power BI, Excel
 
----
+<hr/>
 
 ## 📚 Additional Academic and Personal Projects
 
@@ -129,7 +187,7 @@ Python, SQL, Power BI, Excel
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaganaAnanda&layout=donut&theme=default&hide_border=true" height="160"/>
 </p>
 
----
+<hr/>
 
 ## 📈 Contribution Activity
 
