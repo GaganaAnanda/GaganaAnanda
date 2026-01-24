@@ -1,72 +1,137 @@
-<!-- ⚡ GAGANA ANANDA – PORTFOLIO README ⚡ -->
+<!-- GAGANA ANANDA GITHUB README -->
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=32&duration=3000&pause=500&color=39FF14&center=true&vCenter=true&multiline=true&width=950&lines=Hey+there%2C+I'm+Gagana+Ananda!;Full-Stack+Developer+%7C+Electrical+Engineer;MSIS+%40+Northeastern+University+(Boston)" alt="Typing SVG" />
-</h1>
+![Header](https://capsule-render.vercel.app/api?type=rect\&color=gradient\&width=100%\&height=160\&section=header\&text=Gagana%20Ananda\&fontSize=38\&fontColor=ffffff\&desc=Full%20Stack%20Developer%20%7C%20MSIS%20%40%20Northeastern%20University\&descAlignY=65)
+
+🎓 MS in Information Systems at Northeastern University Boston Massachusetts USA Expected 2027
+🔎 Actively seeking Software Development and Full Stack Internship or Co op roles for 2026
+
+---
+
+## About Me Engineering Perspective
+
+|                                                                                                                                                                                                                                              |   |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | - |
+| **Experience**                                                                                                                                                                                                                               |   |
+| Professional background spanning Electrical Engineering and IT with hands on experience at Cisco Systems and Tata Consultancy Services. Strong exposure to enterprise systems application support and modern software development practices. |   |
+
+**What I Build**
+Full stack web applications backend APIs cloud integrated systems and data driven solutions designed with scalability and clarity in mind.
+
+****Technical Focus**
+Java JavaScript React Node.js Express REST APIs SQL Azure AWS Git and CI workflows.
+
+**Mindset**
+Engineering with intent focusing on clean architecture maintainability performance and real world usability. | <p align="center"><img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260"/></p> |
+
+**Professional Impact**
+• Delivered production ready features in enterprise environments
+• Transitioned engineering problem solving skills into full stack development
+• Built academic and personal projects aligned with industry patterns
+
+---
+
+## Technical Stack
 
 <p align="center">
-  <a href="https://github.com/GaganaAnanda"><img src="https://img.shields.io/badge/GitHub-GaganaAnanda-%23181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/gagana1"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/></a>
-  <a href="mailto:ananda.ga@northeastern.edu"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/></a>
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,react,angular,nodejs,express,mysql,postgresql,azure,git,github,bootstrap,python,powerbi,vscode" />
+</p>
+
+<p align="center">
+REST APIs • Full Stack Development • Cloud Fundamentals • AWS and Azure • Data Analytics • UI and UX Principles
 </p>
 
 ---
 
-### ⚡ About Me  
-🔹 *Turning engineering precision into software innovation.*  
-🎓 **MS in Information Systems @ Northeastern University (Boston, MA)**  
-⚙️ Former **Electrical Engineer @ Cisco Systems & IT Analyst @ Tata Consultancy Services**  
-💻 Currently focusing on **Full-Stack Development, Cloud Integration & Data Analytics**  
-🚀 2026 Goal → Secure a **Software Development Co-op / Internship**  
-💬 Motto: _“Engineer. Code. Analyze. Innovate.”_  
+## AWS Learning and Hands On Exposure
+
+**Academic and Learning Experience**
+Gained foundational knowledge of AWS through graduate coursework and guided labs covering core cloud concepts including compute storage identity management and deployment models.
+
+• EC2 instance fundamentals and virtual machine provisioning
+• S3 object storage concepts and access patterns
+• IAM users roles and permission basics
+• Cloud architecture trade offs and cost awareness
+
+**Hands On Project Exposure**
+Applied AWS concepts in coursework and personal experimentation by deploying backend services and static assets in a cloud environment.
+
+• Hosted Node.js based backend services on EC2
+• Used S3 for static content and file storage experiments
+• Practiced environment configuration security groups and basic monitoring
+• Compared AWS services with Azure to understand multi cloud patterns
 
 ---
 
+## Featured Projects
 
-## 🌈 My “Skill Spectrum”
+### EduTracker Intelligent Education Management System
 
-| Skill Domain | % Proficiency | Core Tools |
-|---------------|---------------|-------------|
-| **Frontend Development** | 🟩🟩🟩🟩⬜ 80% | React.js, AngularJS, HTML, CSS, Bootstrap |
-| **Backend + APIs** | 🟩🟩🟩⬜⬜ 70% | Node.js, Express.js, REST APIs |
-| **Database Management** | 🟩🟩🟩⬜⬜ 70% | MySQL, PostgreSQL |
-| **Data / Analytics** | 🟩🟩🟩⬜⬜ 65% | Python, Power BI |
-| **Cloud & DevOps** | 🟩🟩🟩⬜⬜ 60% | Azure, GitHub Actions |
+**Overview**
+A full stack web application designed to manage academic workflows including students courses performance tracking and analytics.
 
----
+**Engineering Highlights**
+• REST based backend with Node and Express
+• Interactive frontend using React with modular components
+• Relational database design using MySQL
+• Clear separation of concerns and scalable architecture
 
-## 🧩 Featured Projects  
-
-| 🚀 Project | 💡 Description | 🧠 Tech Stack |
-|-------------|----------------|----------------|
-| 🎓 [EduTracker – AI School Management System](https://github.com/GaganaAnanda/6150-group_Assignment) | Multi-tier web app with RESTful APIs & intelligent analytics for schools | JavaScript · React.js · Node.js · Express.js · MySQL |
-| 🏫 [University Management System](https://github.com/GaganaAnanda/University_Management) | End-to-end Java Swing application managing enrollment, courses & performance | Java · PostgreSQL · JDBC |
-| 📊 Supply Chain Analytics Dashboard | Data-driven insights to improve supplier efficiency & inventory forecasting | Power BI · Python · Excel · SQL |
+🔗 [https://github.com/GaganaAnanda/6150-group_Assignment](https://github.com/GaganaAnanda/6150-group_Assignment)
 
 ---
 
-## 🧮 GitHub Insights  
+### University Management System
+
+**Overview**
+Desktop based role driven system to manage enrollment academics grading and administrative operations.
+
+**Engineering Highlights**
+• Java Swing based UI
+• PostgreSQL integration using JDBC
+• Role based access logic and structured workflows
+
+🔗 [https://github.com/GaganaAnanda/University_Management](https://github.com/GaganaAnanda/University_Management)
+
+---
+
+### Supply Chain Analytics Dashboard
+
+**Overview**
+Analytical dashboard focused on extracting insights from operational and supplier data to improve decision making.
+
+**Engineering Highlights**
+• Data modeling and transformation using Python and SQL
+• Interactive dashboards built in Power BI
+• Business focused metrics and visualization
+
+---
+
+## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GaganaAnanda&show_icons=true&theme=radical&hide_border=true&count_private=true" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=GaganaAnanda&theme=radical&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=GaganaAnanda&show_icons=true&theme=default&hide_border=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=GaganaAnanda&theme=default&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaganaAnanda&layout=donut&theme=radical&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaganaAnanda&layout=donut&theme=default&hide_border=true" height="160"/>
 </p>
 
 ---
 
-## 🧭 Professional Timeline  
+## Contribution Activity
 
-```mermaid
-gantt
-    dateFormat  YYYY-MM-DD
-    axisFormat  %Y
-    title Gagana's Tech Journey
-    section Electrical & IT Engineering
-    Tata Consultancy Services        :done, des1, 2017-08-01, 2023-07-01
-    Cisco Systems (India) Pvt Ltd    :done, des2, 2023-07-01, 2025-07-01
-    section Graduate Studies
-    Northeastern University (MSIS)   :active, des3, 2025-01-01, 2027-05-01
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GaganaAnanda&bg_color=ffffff&color=333333&line=4f46e5&point=6366f1&area=true&hide_border=true"/>
+</p>
+
+---
+
+## Contact
+
+📧 Email [ananda.ga@northeastern.edu](mailto:ananda.ga@northeastern.edu)
+💼 LinkedIn [https://linkedin.com/in/gagana1](https://linkedin.com/in/gagana1)
+💻 GitHub [https://github.com/GaganaAnanda](https://github.com/GaganaAnanda)
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=18&pause=1200&color=4f46e5&center=true&vCenter=true&width=900&lines=Building+software+with+clarity+purpose+and+impact" />
+</p>
