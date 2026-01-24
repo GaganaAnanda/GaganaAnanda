@@ -3,19 +3,35 @@
 <!-- HERO SECTION -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=190&section=header&text=Gagana%20Ananda&fontSize=42&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Gagana%20Ananda&fontSize=50&fontColor=ffffff&animation=twinkling" />
 </p>
 
 <p align="center">
-  <b>Full Stack Developer</b> • MS Information Systems @ Northeastern University<br/>
-  Engineering background • Cloud aware • Data driven
+  <b>Software Developer | Full-Stack Intern & Co-op (2026)</b><br/>
+  MS Information Systems @ Northeastern University • Cloud & Data Enthusiast • Engineering Mindset
 </p>
 
 <p align="center">
-  <a href="https://github.com/GaganaAnanda">GitHub</a> • 
-  <a href="https://linkedin.com/in/gagana1">LinkedIn</a> • 
-  <a href="mailto:ananda.ga@northeastern.edu">Email</a> • 
-  <a href="https://gaganaportfolio.online">Portfolio</a>
+  <a href="https://github.com/GaganaAnanda">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/gagana1">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://gaganaportfolio.online">
+    <img src="https://img.shields.io/badge/Portfolio-4f46e5?style=for-the-badge&logo=read-the-docs&logoColor=white"/>
+  </a>
+  <a href="mailto:ananda.ga@northeastern.edu">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&pause=1200&color=4f46e5&center=true&vCenter=true&width=700&lines=Building+Full-Stack+Applications;Developing+Cloud+and+Data-Driven+Backends;Delivering+Impactful+Solutions" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,angular,nodejs,express,mongodb,aws,azure,python,git,github" />
 </p>
 
 <hr/>
