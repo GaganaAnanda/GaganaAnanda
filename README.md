@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <b>Software Developer | Full-Stack Intern & Co-op (2026)</b><br/>
+  <b>Actively Seeking:</b> Software Developer | Full-Stack Intern & Co-op (2026)<br/>
   MS Information Systems @ Northeastern University • Cloud & Data Enthusiast • Engineering Mindset
 </p>
 
@@ -28,10 +28,6 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&pause=1200&color=4f46e5&center=true&vCenter=true&width=700&lines=Building+Full-Stack+Applications;Developing+Cloud+and+Data-Driven+Backends;Delivering+Impactful+Solutions" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,angular,nodejs,express,mongodb,aws,azure,python,git,github" />
 </p>
 
 <hr/>
