@@ -3,7 +3,7 @@
 <!-- HERO SECTION -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Gagana%20Ananda&fontSize=50&fontColor=ffffff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4f46e5,6a0dad,ff69b4,ff9f43&height=250&section=header&text=Gagana%20Ananda&fontSize=50&fontColor=ffffff&animation=twinkling" />
 </p>
 
 <p align="center">
@@ -34,14 +34,14 @@
 
 ## 🌱 My Engineering Story
 
-I come from an Electrical Engineering and enterprise IT background, where precision, systems thinking, and data-driven decisions mattered every day. Over the last 8 years, I’ve worked at large-scale technology organizations solving real operational and supply chain problems. Today, I’m channeling that experience into building software systems that are scalable, reliable, and user-focused.
+I come from an enterprise IT background, where precision, systems thinking, and data-driven decisions mattered every day. Over the last 8 years, I’ve worked at large-scale technology organizations solving real operational and supply chain problems. Today, I’m channeling that experience into building software systems that are scalable, reliable, and user-focused.
 
 <hr/>
 
 ## 🔧 What I Bring to the Table
 
 🛠️ **Industry Depth**  
-Hands-on experience across hardware engineering, IT analysis, supply chain optimization, and analytics-driven decision making in global enterprise environments.
+Hands-on experience across IT analysis, supply chain optimization, and analytics-driven decision making in global enterprise environments.
 
 💻 **Software Craft**  
 Design and development of full stack applications, backend APIs, and cloud-integrated systems with clean architecture and clear separation of concerns.
@@ -63,7 +63,6 @@ I build with intent. Every design choice is guided by maintainability, performan
 
 <hr/>
 
-
 ## 🧠 Technical Stack
 
 <p align="center">
@@ -74,6 +73,7 @@ I build with intent. Every design choice is guided by maintainability, performan
 Full Stack Development • REST APIs • Cloud Fundamentals • Data Analytics • UI and UX Principles
 </p>
 
+<hr/>
 
 ## ☁️ AWS Learning and Hands-On Exposure
 
