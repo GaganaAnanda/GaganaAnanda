@@ -5,12 +5,12 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&width=800&height=200&section=header&text=Gagana%20Ananda&fontSize=38&fontColor=ffffff&desc=Software%20Engineer%20|%20Full%20Stack%20Developer%0ACloud%20and%20Data%20Enthusiast%0AActively%20Seeking:%20Software%20Developer%20|%20Full-Stack%20Intern%20%26%20Co-op%20(2026)&descAlignY=140" />
 
 
-
-/*<p align="center">
+<!-- REMOVE THIS:
+<p align="center">
   <b>Actively Seeking:</b> Software Developer | Full-Stack Intern & Co-op (2026)<br/>
   MS Information Systems @ Northeastern University • Cloud & Data Enthusiast • Engineering Mindset
-</p>*/
-
+</p>
+-->
 <p align="center">
   <a href="https://github.com/GaganaAnanda">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
