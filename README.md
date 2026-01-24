@@ -3,8 +3,9 @@
 <!-- HERO SECTION -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4f46e5,6a0dad,ff69b4,ff9f43&height=250&section=header&text=Gagana%20Ananda&fontSize=50&fontColor=ffffff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=4f46e5,ff3cac,ff6f3c,ffd43b&height=250&section=header&text=Gagana%20Ananda&fontSize=50&fontColor=ffffff&animation=twinkling" />
 </p>
+
 
 <p align="center">
   <b>Actively Seeking:</b> Software Developer | Full-Stack Intern & Co-op (2026)<br/>
