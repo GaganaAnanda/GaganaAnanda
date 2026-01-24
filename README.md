@@ -1,3 +1,5 @@
+<!-- GAGANA ANANDA GITHUB README -->
+
 <!-- HERO SECTION -->
 
 <p align="center">
@@ -6,7 +8,7 @@
 
 <p align="center">
   <b>Full Stack Developer</b> • MS Information Systems @ Northeastern University  
-  <br/>Engineering background • Cloud aware • Product minded
+  <br/>Engineering background • Cloud aware • Data driven
 </p>
 
 <p align="center">
@@ -16,60 +18,62 @@
   <a href="https://gaganaportfolio.online">Portfolio</a>
 </p>
 
----
+<hr/>
 
-## Snapshot
+## 🌱 My Engineering Story
+
+I come from an Electrical Engineering and enterprise IT background, where precision, systems thinking, and data driven decisions mattered every day. Over the last 8 years, I’ve worked at large scale technology organizations solving real operational and supply chain problems. Today, I’m channeling that experience into building software systems that are scalable, reliable, and user focused.
 
 <hr/>
 
-|                                                                                                                                                                                                                                              |   |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | - |
-| **Experience**                                                                                                                                                                                                                               |   |
-| Professional background spanning Electrical Engineering and IT with hands on experience at Cisco Systems and Tata Consultancy Services. Strong exposure to enterprise systems application support and modern software development practices. |   |
+## 🔧 What I Bring to the Table
 
-**What I Build**
-Full stack web applications backend APIs cloud integrated systems and data driven solutions designed with scalability and clarity in mind.
+🛠️ **Industry Depth**
+Hands on experience across hardware engineering, IT analysis, supply chain optimization, and analytics driven decision making in global enterprise environments.
 
-****Technical Focus**
-Java JavaScript React Node.js Express REST APIs SQL Azure AWS Git and CI workflows.
+💻 **Software Craft**
+Design and development of full stack applications, backend APIs, and cloud integrated systems with clean architecture and clear separation of concerns.
 
-**Mindset**
-Engineering with intent focusing on clean architecture maintainability performance and real world usability. | <p align="center"><img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260"/></p> |
+☁️ **Cloud and Data Awareness**
+Practical exposure to AWS and Azure, combined with strong data analytics skills using SQL, Python, and Power BI to support insight driven applications.
 
-**Professional Impact**
-• Delivered production ready features in enterprise environments
-• Transitioned engineering problem solving skills into full stack development
-• Built academic and personal projects aligned with industry patterns
-
----
+🧠 **Engineering Mindset**
+I build with intent. Every design choice is guided by maintainability, performance, and real world usability rather than just feature completion.
 
 <hr/>
 
-## Technical Stack
+## 🚀 Where I Create Impact
+
+📊 Transformed data into insights that reduced inventory surplus and operational costs
+🤝 Worked cross functionally with engineering, analytics, and business teams
+📦 Supported enterprise scale products and workflows used across multiple teams
+🔄 Applied structured engineering thinking to modern full stack development
+
+<hr/>
+
+## 🧠 Technical Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,react,angular,nodejs,express,mysql,postgresql,azure,git,github,bootstrap,python,powerbi,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,react,angular,nodejs,express,mysql,postgresql,mongodb,aws,azure,git,github,bootstrap,powerbi,vscode" />
 </p>
 
 <p align="center">
-REST APIs • Full Stack Development • Cloud Fundamentals • AWS and Azure • Data Analytics • UI and UX Principles
+Full Stack Development • REST APIs • Cloud Fundamentals • Data Analytics • UI and UX Principles
 </p>
-
----
 
 <hr/>
 
-## AWS Learning and Hands On Exposure
+## ☁️ AWS Learning and Hands On Exposure
 
-**Academic and Learning Experience**
-Gained foundational knowledge of AWS through graduate coursework and guided labs covering core cloud concepts including compute storage identity management and deployment models.
+🎓 **Academic and Learning Experience**
+Gained foundational knowledge of AWS through graduate coursework and guided labs covering compute storage identity management and deployment models.
 
 • EC2 instance fundamentals and virtual machine provisioning
 • S3 object storage concepts and access patterns
 • IAM users roles and permission basics
 • Cloud architecture trade offs and cost awareness
 
-**Hands On Project Exposure**
+🛠️ **Hands On Project Exposure**
 Applied AWS concepts in coursework and personal experimentation by deploying backend services and static assets in a cloud environment.
 
 • Hosted Node.js based backend services on EC2
@@ -77,13 +81,9 @@ Applied AWS concepts in coursework and personal experimentation by deploying bac
 • Practiced environment configuration security groups and basic monitoring
 • Compared AWS services with Azure to understand multi cloud patterns
 
----
-
 <hr/>
 
-## Featured Projects
-
-<hr/>
+## 🚀 Featured Projects
 
 ### EduTracker AI Powered School Management System
 
@@ -93,7 +93,7 @@ A full stack multi tier web application designed to streamline academic operatio
 **Key Contributions**
 • Designed RESTful backend APIs using Node.js and Express
 • Built responsive frontend using React with reusable components
-• Implemented role based access for admins faculty students and parents
+• Implemented role based access for administrators faculty students and parents
 • Integrated MongoDB for flexible data modeling and analytics
 
 **Tech Stack**
@@ -139,7 +139,7 @@ Java Java Swing PostgreSQL JDBC
 ### Supply Chain Analytics and Business Intelligence Projects
 
 **Overview**
-A collection of analytics focused projects leveraging real world supply chain datasets to generate actionable insights.
+Analytics focused projects leveraging real world supply chain datasets to generate actionable insights.
 
 **Key Contributions**
 • Built interactive dashboards using Power BI
@@ -151,20 +151,18 @@ Python SQL Power BI Excel
 
 <hr/>
 
-## Additional Academic and Personal Projects
+## 📚 Additional Academic and Personal Projects
 
-| Project                        | Description                                                                           | Technologies                  |
-| ------------------------------ | ------------------------------------------------------------------------------------- | ----------------------------- |
-| City Bites                     | Responsive multi page web application demonstrating layout systems and UI structuring | HTML CSS Flexbox Grid         |
-| Java Mini Applications         | Object oriented Java applications showcasing data structures workflows and UI logic   | Java OOP                      |
-| Web and UX Coursework Projects | UI focused projects emphasizing accessibility responsiveness and usability            | HTML CSS JavaScript Bootstrap |
-| Data Analytics Coursework      | Business analytics assignments focused on visualization and insight generation        | Python SQL Power BI           |
+| Project                   | Description                                                                       | Technologies                  |
+| ------------------------- | --------------------------------------------------------------------------------- | ----------------------------- |
+| City Bites                | Responsive multi page web application focused on layout systems and UI structure  | HTML CSS Flexbox Grid         |
+| Java Mini Applications    | Object oriented applications demonstrating data structures workflows and UI logic | Java OOP                      |
+| Web and UX Coursework     | UI focused projects emphasizing accessibility responsiveness and usability        | HTML CSS JavaScript Bootstrap |
+| Data Analytics Coursework | Business analytics assignments focused on visualization and insight generation    | Python SQL Power BI           |
 
 <hr/>
 
-## GitHub Analytics
-
-## GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GaganaAnanda&show_icons=true&theme=default&hide_border=true" height="160"/>
@@ -175,17 +173,9 @@ Python SQL Power BI Excel
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaganaAnanda&layout=donut&theme=default&hide_border=true" height="160"/>
 </p>
 
----
+<hr/>
 
-## Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GaganaAnanda&bg_color=ffffff&color=333333&line=4f46e5&point=6366f1&area=true&hide_border=true"/>
-</p>
-
----
-
-## Contact
+## 📬 Contact
 
 🌐 Portfolio [https://gaganaportfolio.online](https://gaganaportfolio.online)
 📧 Email [ananda.ga@northeastern.edu](mailto:ananda.ga@northeastern.edu)
@@ -193,5 +183,5 @@ Python SQL Power BI Excel
 💻 GitHub [https://github.com/GaganaAnanda](https://github.com/GaganaAnanda)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=18&pause=1200&color=4f46e5&center=true&vCenter=true&width=900&lines=Building+software+with+clarity+purpose+and+impact" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=18&pause=1200&color=4f46e5&center=true&vCenter=true&width=900&lines=Building+software+with+engineering+rigor+and+real+world+impact" />
 </p>
