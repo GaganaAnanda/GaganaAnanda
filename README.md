@@ -111,7 +111,7 @@ A full stack multi-tier web application designed to streamline academic operatio
 **Tech Stack**  
 JavaScript, HTML5, CSS3, Bootstrap, React, Node.js, Express, MongoDB  
 
-🔗 [https://github.com/GaganaAnanda/EduTrack_AI](https://github.com/GaganaAnanda/EduTrack_AI)
+🔗 [https://github.com/Mallesh-Mallikarjunaiah/EduTrack_AI](https://github.com/Mallesh-Mallikarjunaiah/EduTrack_AI)
 
 ---
 
