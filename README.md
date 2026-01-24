@@ -145,7 +145,7 @@ Role-based desktop application to manage university enrollment, academics, gradi
 **Tech Stack**  
 Java, Java Swing, PostgreSQL, JDBC  
 
-🔗 [[https://github.com/GaganaAnanda/University_Management](https://github.com/GaganaAnanda/University_Management](https://github.com/GaganaAnanda/Digital-University-Systems))
+🔗 [[https://github.com/GaganaAnanda/University_Management](https://github.com/GaganaAnanda/University_Management](https://github.com/GaganaAnanda/Digital-University-Systems)
 
 ---
 
