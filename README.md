@@ -63,17 +63,17 @@ I build with intent. Every design choice is guided by maintainability, performan
 
 <hr/>
 
+
 ## 🧠 Technical Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,react,angular,nodejs,express,mysql,postgresql,mongodb,aws,azure,git,github,bootstrap,powerbi,vscode" height="40" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,react,angular,nodejs,express,mysql,postgresql,mongodb,aws,azure,git,github,bootstrap,powerbi,vscode" height="70" />
 </p>
 
 <p align="center">
 Full Stack Development • REST APIs • Cloud Fundamentals • Data Analytics • UI and UX Principles
 </p>
 
-<hr/>
 
 ## ☁️ AWS Learning and Hands-On Exposure
 
